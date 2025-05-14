@@ -1,4 +1,3 @@
-````markdown
 # Telegram Class Bot
 
 Бот выбирает случайного ученика из указанного класса.
@@ -9,22 +8,26 @@
    ```bash
    git clone https://github.com/ВАШ_НИК/telegram-class-bot.git
    cd telegram-class-bot
-````
-
+   ```
 2. Откройте `bot.py` и замените строку
-
    ```python
    BOT_TOKEN = "—"
    ```
-
    на ваш токен от BotFather.
-3. Установите зависимости:
 
+3. Установите зависимости:
    ```bash
    pip install pyTelegramBotAPI
    ```
-4. Запустите бота:
 
+4. Запустите бота:
    ```bash
    python bot.py
    ```
+
+## Структура проекта
+
+- `bot.py` — код бота  
+- `classes/` — текстовые файлы с учениками (по одному имени в строке)  
+- `.gitignore` — исключает служебные файлы (`__pycache__/`, `*.pyc`)  
+- `README.md` — это описание проекта и инструкция по установке  
