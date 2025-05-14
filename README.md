@@ -14,6 +14,11 @@
    BOT_TOKEN = "—"
    ```
    на [ваш токен от BotFather](https://chatlabs.ru/botfather-instrukcziya-komandy-nastrojki/)
+   так же, замените строку 
+      ```python
+   BASE_PATH = "—"
+   ```
+    на нужную директорию, где будут тектовые файлы с ФИО учеников.
 
 3. Установите зависимости:
    ```bash
