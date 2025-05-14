@@ -13,7 +13,7 @@
    ```python
    BOT_TOKEN = "—"
    ```
-   на [ваш токен от BotFather](https://chatlabs.ru/botfather-instrukcziya-komandy-nastrojki/)
+   на [ваш токен от BotFather](https://chatlabs.ru/botfather-instrukcziya-komandy-nastrojki/);
    так же, замените строку 
       ```python
    BASE_PATH = "—"
