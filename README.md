@@ -6,7 +6,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/ВАШ_НИК/telegram-class-bot.git
+   git clone https://github.com/drhack999/telegram-class-bot.git
    cd telegram-class-bot
    ```
 2. Откройте `bot.py` и замените строку
